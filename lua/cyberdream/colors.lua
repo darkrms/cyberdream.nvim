@@ -38,7 +38,7 @@ local M = {}
 ---@class CyberdreamColors
 ---@field default CyberdreamColorDefault
 M.default = {
-    bg = "#16181a",
+    bg = "#03070a",
     bgAlt = "#1e2124",
     bgHighlight = "#3c4048",
     fg = "#ffffff",
